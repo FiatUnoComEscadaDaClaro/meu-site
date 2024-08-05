@@ -12,6 +12,9 @@ Você pode acessar o site diretamente via [GitHub Pages](https://fiatunocomescad
 - `contato.html`: Página "Contato", com um formulário para os visitantes entrarem em contato.
 - `css/styles.css`: Arquivo CSS com as estilizações usadas no site.
 - `img/logo.png`: Imagem usada no site (logo).
+- ## Créditos
+- Todo o conteúdo textual e visual foi criado pelo autor do projeto, exceto as imagens listadas abaixo.
+- As imagens foram retiradas do site https://www.sistemafaep.org.br/agrinho/
 
 ## Como Rodar Localmente
 1. Clone o repositório para sua máquina local:
